@@ -1,0 +1,16 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Home"
+      href: http://github.com/p8105_hw4_jt3098/
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<jt3098@cumc.columbia.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/qiqipower029/bst-p8105-jt3098.github.io.git
+output:
+  html_document:
+    theme: cosmo
