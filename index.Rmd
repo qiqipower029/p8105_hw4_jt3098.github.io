@@ -1,7 +1,9 @@
 ---
-title: "Holy cow!"
+title: "Home"
 ---
 
-### I have a webpage!
+### About this site
 
-And I can put all kinds of stuff on it!
+This is a personal website created by Jieqi Tu.
+
+To access the resume page, click [here](resume.html).
