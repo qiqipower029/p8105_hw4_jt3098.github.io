@@ -1,9 +1,11 @@
 ---
-title: "My Personal Experiance"
+title: "Jieqi Tu's Personal Website"
 ---
 
 ## Landing Page
 
-This is my first personal website!!
+This is my first personal website!! Although this website is very simple, I am still excited to have 
 
-## 
+## Link to Another Page
+
+Click [here] to see the resume page.
