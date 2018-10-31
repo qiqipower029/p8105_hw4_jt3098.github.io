@@ -8,4 +8,4 @@ This is a personal website created by Jieqi Tu.
 
 To access the resume page, click [here](resume.html).
 
-To access the dashboard page, click [here](dashboard.html)
+To access the dashboard page, click [here](dashboard.html).
